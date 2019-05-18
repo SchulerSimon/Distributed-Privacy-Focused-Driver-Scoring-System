@@ -8,7 +8,7 @@ This is a prototype under construction. You are (within the boundaries of the gn
 - `/obd2_sim` contains an arduino based simulation tool for sending data via can-bus to an obd2 bluetooth-dongle
 - `server_linux` contains a python3 implementation of the server-component that manages a localy deployed [burrow blockchain](https://github.com/hyperledger/burrow)
 
-
+## Thesis proposal:
 ### Introduction
 In the automotive insurance industry there are currently various approaches to
 minimise the risk of bad driver behaviour. Data related to some characteristics
