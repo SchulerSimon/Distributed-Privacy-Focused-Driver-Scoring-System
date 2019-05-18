@@ -1,0 +1,4 @@
+jobs:
+- name: deploy_contract
+  deploy:
+    contract: score_storage.sol

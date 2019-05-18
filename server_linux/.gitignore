@@ -1,0 +1,8 @@
+__pycache__/
+bin
+burrow.toml
+.burrow
+.keys
+score_storage.abi
+score_storage.bin
+*.output.json

@@ -1,0 +1,19 @@
+jobs:
+ - name: foo
+   deploy:
+     contract: score_storage.sol
+ 
+ - name: _add_score
+   call:
+     destination: $foo
+     function: add_score
+     data:
+     - 144
+     - 9000000
+ 
+ - name: _get_score
+   query-contract:
+     destination: $foo
+     function: get_score
+     data:
+     - 144

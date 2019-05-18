@@ -1,0 +1,6 @@
+ 	Lila		16
+GND		Rot-Weiß	4
+GND		Grün		5
+CAN_H	Grün-Weiß	6
+CAN_L	Hellgrün	14
+		

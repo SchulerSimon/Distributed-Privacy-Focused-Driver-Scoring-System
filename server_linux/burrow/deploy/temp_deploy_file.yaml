@@ -1,0 +1,8 @@
+jobs:
+- name: _add_score
+  call:
+    destination: 3E82176D45588C20EF1A9AF22C3A79D22901EEE4
+    function: add_score
+    data:
+    - 16341234
+    - 9100000
