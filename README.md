@@ -104,26 +104,19 @@ this thesis could take a step towards decentralisation and help working towards
 fair treatment of customers.
 
 ### References
-[1] chunky@icculus.org. OBDSim. url: http://icculus.org/obdgpslogger/
-obdsim.html. (accessed: 15.10.2018).
-[2] Isaac Sayo Daniel. System and method for determining an objective driver
+- [1] chunky@icculus.org. OBDSim. url: http://icculus.org/obdgpslogger/obdsim.html. (accessed: 15.10.2018).
+- [2] Isaac Sayo Daniel. System and method for determining an objective driver
 score. Paper. F3M3 Cos Inc, 2008.
-[3] Michael Greenlee Gregory Warren. Calculation of driver score based on
+- [3] Michael Greenlee Gregory Warren. Calculation of driver score based on
 vehicle operation for forward looking insurance premiums. Paper. IVOX
 NC, 2004.
-[4] info@azuga.com. Azuga Driver Scoring. url: https://www.azuga.com/
-products / insurance / azuga - advanced - driver - scoring/. (accessed:
+- [4] info@azuga.com. Azuga Driver Scoring. url: https://www.azuga.com/products/insurance/azuga-advanced-driver-scoring/. (accessed:
 16.10.2018).
-[5] kaggle.com. url: https://www.kaggle.com/cephasax/obdii-ds3#exp3_
-4drivers_1car_1route.csv. (accessed: 23.10.2018).
-[6] mviljoen2. Arduino OBD2 Simulator. url: https://www.instructables.
-com/id/Arduino-OBD2-Simulator/. (accessed: 17.10.2018).
-[7] Kathleen Pender. Smartphone app from FICO, eDriving to score driving
-behavior. url: https : / / www . sfchronicle . com / business / networth /
-article/Smartphone-app-from-FICO-eDriving-to-score-10636484.
-php. (accessed: 12.10.2018).
-[8] OBD Solutions. ecusim-5100. url: https://www.obdsol.com/solutions/
-development-tools/obd-simulators/ecusim-5100/. (accessed: 17.10.2018).
+- [5] kaggle.com. url: https://www.kaggle.com/cephasax/obdii-ds3#exp3_4drivers_1car_1route.csv. (accessed: 23.10.2018).
+- [6] mviljoen2. Arduino OBD2 Simulator. url: https://www.instructables.com/id/Arduino-OBD2-Simulator/. (accessed: 17.10.2018).
+- [7] Kathleen Pender. Smartphone app from FICO, eDriving to score driving
+behavior. url: https://www.sfchronicle.com/business/networth/article/Smartphone-app-from-FICO-eDriving-to-score-10636484.php. (accessed: 12.10.2018).
+- [8] OBD Solutions. ecusim-5100. url: https://www.obdsol.com/solutions/development-tools/obd-simulators/ecusim-5100/. (accessed: 17.10.2018).
 
 
 
